@@ -1,1 +1,1 @@
-# Python
+# Pythonサンプル：練習
