@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\kikkawa.mitsuru\\PycharmProjects\\test\\tf-dqn-simple-master\\models\\catch_ball.ckpt"
+all_model_checkpoint_paths: "C:\\Users\\kikkawa.mitsuru\\PycharmProjects\\test\\tf-dqn-simple-master\\models\\catch_ball.ckpt"
